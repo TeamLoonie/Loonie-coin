@@ -6046,7 +6046,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Loonie Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>(must be 6860 for mainnet)</source>
+        <source>(must be 39447 for mainnet)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

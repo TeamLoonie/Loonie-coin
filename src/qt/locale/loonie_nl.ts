@@ -4572,8 +4572,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Loonie Alert" admin@foo.com
         <translation>(standaard: 1)</translation>
     </message>
     <message>
-        <source>(must be 6860 for mainnet)</source>
-        <translation>(moet 6860 voor mainnet zijn)</translation>
+        <source>(must be 39447 for mainnet)</source>
+        <translation>(moet 39447 voor mainnet zijn)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

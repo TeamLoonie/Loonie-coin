@@ -229,7 +229,7 @@ QT_TRANSLATE_NOOP("loonie-core", ""
 QT_TRANSLATE_NOOP("loonie-core", "(80589 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("loonie-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("loonie-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("loonie-core", "(must be 6860 for mainnet)"),
+QT_TRANSLATE_NOOP("loonie-core", "(must be 39447 for mainnet)"),
 QT_TRANSLATE_NOOP("loonie-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("loonie-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("loonie-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

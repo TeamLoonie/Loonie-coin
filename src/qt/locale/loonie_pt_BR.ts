@@ -3502,8 +3502,8 @@ https://www.transifex.com/loonie-project/loonie-project-translations</translatio
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 6860 for mainnet)</source>
-        <translation>(deve ser 6860 para mainnet)</translation>
+        <source>(must be 39447 for mainnet)</source>
+        <translation>(deve ser 39447 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>

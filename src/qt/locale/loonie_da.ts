@@ -4051,8 +4051,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Loonie ALARM!" e-mail@administrato
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 6860 for mainnet)</source>
-        <translation>(skal være 6860 for hovednettet)</translation>
+        <source>(must be 39447 for mainnet)</source>
+        <translation>(skal være 39447 for hovednettet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

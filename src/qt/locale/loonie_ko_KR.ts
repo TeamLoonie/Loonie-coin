@@ -4590,8 +4590,8 @@ rpcpassword=%s
         <translation>(기본값: 1)</translation>
     </message>
     <message>
-        <source>(must be 6860 for mainnet)</source>
-        <translation>(메인넷 일경우 6860)</translation>
+        <source>(must be 39447 for mainnet)</source>
+        <translation>(메인넷 일경우 39447)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

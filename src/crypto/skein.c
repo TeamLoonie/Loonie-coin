@@ -1031,7 +1031,7 @@ skein_big_close(sph_skein_big_context *sc, unsigned ub, unsigned n,
 #if 0
 /* obsolete */
 static const sph_u64 IV224[] = {
-	SPH_C64(0xC6098A8C9AE5EA0B), SPH_C64(0x876D568608C5191C),
+	SPH_C64(0xC6098A8C9AE5EA0B), SPH_C64(0x876D5394478C5191C),
 	SPH_C64(0x99CB88D7D7F53884), SPH_C64(0x384BDDB1AEDDB5DE)
 };
 

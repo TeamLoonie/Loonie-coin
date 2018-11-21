@@ -105,7 +105,7 @@ class ProxyTest(BitcoinTestFramework):
         assert(isinstance(cmd, Socks5Command))
         assert_equal(cmd.atyp, AddressType.DOMAINNAME)
         assert_equal(cmd.addr, "loonievj7kcklujarx.onion")
-        assert_equal(cmd.port, 6860)
+        assert_equal(cmd.port, 39447)
         if not auth:
             assert_equal(cmd.username, None)
             assert_equal(cmd.password, None)
